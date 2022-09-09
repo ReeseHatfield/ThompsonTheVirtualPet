@@ -2,7 +2,7 @@
 ## A virtual pet game for iOS
 <br />
 
-![Thompson](ThompsonTheVirtualPet/ThompsonTheVirtualPet/thompsonLaunchBigFized.png)
+![Thompson](ThompsonTheVirtualPet/ThompsonTheVirtualPet/thompsonLaunc1.png)
 
 Hello! This is a virtual pet, tamagachi type game for iOS. It was really fun to make, but there is still many things I would want to do with it. This is my first iOS application I made, so feedback is welcome
 
@@ -22,4 +22,7 @@ I made this project to practice Swift development, as well as good object orient
 * Play Again Button Resets all data
 * Fix UI scaling for all phone orientations
 * Hex colors do not EXACTLY match on different views of the model
+
+## Credits:
+[Thompson Art by "fsvieira" through OpenGameArt](https://opengameart.org/content/pixel-version-of-a-dog-puppy-s%C3%A3o-bernardo)
 
