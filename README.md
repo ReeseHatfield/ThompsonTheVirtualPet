@@ -18,7 +18,7 @@ I made this project to practice Swift development, as well as good object orient
 
 <br />
 
-##Development To Do:
+##  Development To Do:
 * Play Again Button Resets all data
 * Fix UI scaling for all phone orientations
 * Hex colors do not EXACTLY match on different views of the model
